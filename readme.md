@@ -16,4 +16,4 @@ This module covers the various steps to run bert-pretraining on the IndicCorp Da
 
 * Once the above step is done, specify the path to the above config file in the *bert_pretraining.py* file, and run the file. The model training will start and you will be able to see the logs. The command to start the pretraining is 
   
-      python bert-pretraining.py
+      python bert_pretraining.py
