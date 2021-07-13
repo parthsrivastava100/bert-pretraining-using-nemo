@@ -1,4 +1,4 @@
-## BERT PRE-TRAINING USING NEMO
+## BERT PRE-TRAINING USING NEMO: https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/bert_pretraining.html
 
 This module covers the various steps to run bert-pretraining on the IndicCorp Dataset: https://indicnlp.ai4bharat.org/corpora/ . The various steps are :
 
