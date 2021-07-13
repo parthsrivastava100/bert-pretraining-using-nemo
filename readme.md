@@ -1,6 +1,6 @@
 ## BERT PRE-TRAINING USING NEMO
 
-This module covers the various steps to run bert-pretraining on the IndicCorp Dataset. The various steps are :
+This module covers the various steps to run bert-pretraining on the IndicCorp Dataset: https://indicnlp.ai4bharat.org/corpora/ . The various steps are :
 
 * The first step of the process is to generate the hdf5 files required for the training. 
 
